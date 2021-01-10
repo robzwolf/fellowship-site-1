@@ -1,10 +1,14 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
-  
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
-  
+- course: AWS Solutions Architect – Associate
+  institute: Amazon Web Services
+  dates: November 2020
+  logo: aws.png
+
+- course: AWS Cloud Practitioner
+  institute: Amazon Web Services
+  dates: October 2020
+  logo: aws.png
+
+- course: BSc Natural Sciences (Maths and Computer Science) with Placement
+  institute: Durham University
+  dates: 2016-2020
+  logo: du.png
